@@ -38,74 +38,40 @@ Regjur 27
 
 Автор: Татьяна
 
-* Тестовый сервер Chrome version 115.0.5790.110 (Official Build) (64-bit)
+* Тестовый сервер 
 
 Тест выполнен
 
-| №   | Дата       | Время | Результат | Имя     | Баг № Trello                  |
-| --- | ---------- | ----- | --------- | ------- | ----------------------------- |
-| 1   | 2023-08-02 | 13:20 | PASS      | Татьяна |                               |
-| 2   | 2023-08-02 | 13:33 | FAIL      | Татьяна | https://trello.com/c/9d312LaU |
-| 3   | 2023-08-02 | 13:43 | FAIL      | Татьяна | https://trello.com/c/NXVgBXpM |
-| 4   | 2023-08-02 | 13:50 | FAIL      | Татьяна | https://trello.com/c/KVEOrLyL |
-| 5   | 2023-08-02 | 14:00 | FAIL      | Татьяна | https://trello.com/c/GUPIBGTf |
+|  №  | Дата       | Время |           Версия браузера           |        Результат/Баг в            |             Версия браузера и       |           Результат/Баг в          |  Дата  |  Имя   |
+								          Десктоп		                   Трелло Десктоп		                        ОС Тач			                  Трелло Тач	          Релиза
+| --- | ---------- | ----- |-------------------------------------| ---------------------------------- | ---------------------------------- | ---------------------------------- | ------| ------  |
+| 1   | 2023-08-02 | 13:20 |Chrome 115.0.5790.110 Firefox 115.0.3| PASS      						  | Huawei Mate 10 PRO EMUI 12.0.0.225 | PASS      						    | 04.07 | Татьяна |
+| 2   | 2023-08-02 | 13:33 |Chrome 115.0.5790.110 Firefox 115.0.3| FAIL https://trello.com/c/9d312LaU | Huawei Mate 10 PRO EMUI 12.0.0.225 | FAIL https://trello.com/c/9d312LaU | 04.07 | Татьяна |
+| 3   | 2023-08-02 | 13:43 |Chrome 115.0.5790.110 Firefox 115.0.3| FAIL https://trello.com/c/NXVgBXpM | Huawei Mate 10 PRO EMUI 12.0.0.225 | FAIL https://trello.com/c/NXVgBXpM | 04.07 | Татьяна |
+| 4   | 2023-08-02 | 13:50 |Chrome 115.0.5790.110 Firefox 115.0.3| FAIL https://trello.com/c/KVEOrLyL | Huawei Mate 10 PRO EMUI 12.0.0.225 | FAIL https://trello.com/c/KVEOrLyL | 04.07 | Татьяна |
+| 5   | 2023-08-02 | 14:00 |Chrome 115.0.5790.110 Firefox 115.0.3| FAIL https://trello.com/c/GUPIBGTf | Huawei Mate 10 PRO EMUI 12.0.0.225 | FAIL https://trello.com/c/GUPIBGTf | 04.07 | Татьяна |
+| --- | ---------- | ----- |-------------------------------------| ---------------------------------- | ---------------------------------- | ---------------------------------- | ------| ------  |
+| 1   | 2023-08-15 | 20:20 |Chrome 116.0.5845.97 Yandex 23.7.2.765| PASS      						  | Xiaomi Mi 9 Lite MIUI 12.5.2       | PASS      						    | 13.08 | Сабина  |
+| 2   | 2023-08-16 | 10:00 |Chrome 116.0.5845.97 Yandex 23.7.2.765| FAIL https://trello.com/c/9d312LaU| Xiaomi Mi 9 Lite MIUI 12.5.2       | FAIL https://trello.com/c/9d312LaU | 13.08 | Сабина  |
+| 3   | 2023-08-16 | 10:20 |Chrome 116.0.5845.97 Yandex 23.7.2.765| FAIL https://trello.com/c/NXVgBXpM | Xiaomi Mi 9 Lite MIUI 12.5.2      | FAIL https://trello.com/c/NXVgBXpM | 13.08 | Сабина |
+| 4   | 2023-08-16 | 10:25 |Chrome 116.0.5845.97 Yandex 23.7.2.765| FAIL https://trello.com/c/KVEOrLyL | Xiaomi Mi 9 Lite MIUI 12.5.2      | FAIL https://trello.com/c/KVEOrLyL | 13.08 | Сабина |
+| 5   | 2023-08-16 | 10:30 |Chrome 116.0.5845.97 Yandex 23.7.2.765| FAIL https://trello.com/c/GUPIBGTf | Xiaomi Mi 9 Lite MIUI 12.5.2      | FAIL https://trello.com/c/GUPIBGTf | 13.08 | Сабина |
 
-* Продовый сервер Chrome version 115.0.5790.110 (Official Build) (64-bit)
-
-Тест выполнен
-
-| №   | Дата       | Время | Результат | Имя     | Баг № Trello                  |
-| --- | ---------- | ----- | --------- | ------- | ----------------------------- |
-| 1   | 2023-08-02 | 13:20 | PASS      | Татьяна |                               |
-| 2   | 2023-08-02 | 13:34 | FAIL      | Татьяна | https://trello.com/c/9d312LaU |
-| 3   | 2023-08-02 | 13:44 | FAIL      | Татьяна | https://trello.com/c/NXVgBXpM |
-| 4   | 2023-08-02 | 13:50 | FAIL      | Татьяна | https://trello.com/c/KVEOrLyL |
-| 5   | 2023-08-02 | 14:00 | FAIL      | Татьяна | https://trello.com/c/GUPIBGTf |
-
-- Тестовый сервер Firefox version 115.0.3 (64-bit)
+* Продовый сервер
 
 Тест выполнен
 
-| №   | Дата       | Время | Результат | Имя     | Баг № Trello                  |
-| --- | ---------- | ----- | --------- | ------- | ----------------------------- |
-| 1   | 2023-08-02 | 13:21 | PASS      | Татьяна |                               |
-| 2   | 2023-08-02 | 13:34 | FAIL      | Татьяна | https://trello.com/c/9d312LaU |
-| 3   | 2023-08-02 | 13:44 | FAIL      | Татьяна | https://trello.com/c/NXVgBXpM |
-| 4   | 2023-08-02 | 13:51 | FAIL      | Татьяна | https://trello.com/c/KVEOrLyL |
-| 5   | 2023-08-02 | 14:01 | FAIL      | Татьяна | https://trello.com/c/GUPIBGTf |
-
-- Продовый сервер Firefox version 115.0.3 (64-bit)
-
-Тест выполнен
-
-| №   | Дата       | Время | Результат | Имя     | Баг № Trello                  |
-| --- | ---------- | ----- | --------- | ------- | ----------------------------- |
-| 1   | 2023-08-02 | 13:22 | PASS      | Татьяна |                               |
-| 2   | 2023-08-02 | 13:35 | FAIL      | Татьяна | https://trello.com/c/9d312LaU |
-| 3   | 2023-08-02 | 13:45 | FAIL      | Татьяна | https://trello.com/c/NXVgBXpM |
-| 4   | 2023-08-02 | 13:52 | FAIL      | Татьяна | https://trello.com/c/KVEOrLyL |
-| 5   | 2023-08-02 | 14:02 | FAIL      | Татьяна | https://trello.com/c/GUPIBGTf |
-
-- Тестовый сервер Мобильное устройство Huawei Mate 10 PRO EMUI 12.0.0.225
-
-Тест выполнен
-
-| №   | Дата       | Время | Результат | Имя     | Баг № Trello                  |
-| --- | ---------- | ----- | --------- | ------- | ----------------------------- |
-| 1   | 2023-08-02 | 13:23 | PASS      | Татьяна |                               |
-| 2   | 2023-08-02 | 13:36 | FAIL      | Татьяна | https://trello.com/c/9d312LaU |
-| 3   | 2023-08-02 | 13:46 | FAIL      | Татьяна | https://trello.com/c/NXVgBXpM |
-| 4   | 2023-08-02 | 13:53 | FAIL      | Татьяна | https://trello.com/c/KVEOrLyL |
-| 5   | 2023-08-02 | 14:03 | FAIL      | Татьяна | https://trello.com/c/GUPIBGTf |
-
-- Продовый сервер Мобильное устройство Huawei Mate 10 PRO EMUI 12.0.0.225
-
-Тест выполнен
-
-| №   | Дата       | Время | Результат | Имя     | Баг № Trello                  |
-| --- | ---------- | ----- | --------- | ------- | ----------------------------- |
-| 1   | 2023-08-02 | 13:24 | PASS      | Татьяна |                               |
-| 2   | 2023-08-02 | 13:37 | FAIL      | Татьяна | https://trello.com/c/9d312LaU |
-| 3   | 2023-08-02 | 13:46 | FAIL      | Татьяна | https://trello.com/c/NXVgBXpM |
-| 4   | 2023-08-02 | 13:54 | FAIL      | Татьяна | https://trello.com/c/KVEOrLyL |
-| 5   | 2023-08-02 | 14:03 | FAIL      | Татьяна | https://trello.com/c/GUPIBGTf |
+|  №  | Дата       | Время |           Версия браузера           |        Результат/Баг в            |             Версия браузера и       |           Результат/Баг в          |  Дата  |  Имя   |
+								          Десктоп		                   Трелло Десктоп		                        ОС Тач			                  Трелло Тач	          Релиза
+| --- | ---------- | ----- |-------------------------------------| ---------------------------------- | ---------------------------------- | ---------------------------------- | ------| ------  |
+| 1   | 2023-08-02 | 13:20 |Chrome 115.0.5790.110 Firefox 115.0.3| PASS      						  | Huawei Mate 10 PRO EMUI 12.0.0.225 | PASS      						    | 04.07 | Татьяна |
+| 2   | 2023-08-02 | 13:33 |Chrome 115.0.5790.110 Firefox 115.0.3| FAIL https://trello.com/c/9d312LaU | Huawei Mate 10 PRO EMUI 12.0.0.225 | FAIL https://trello.com/c/9d312LaU | 04.07 | Татьяна |
+| 3   | 2023-08-02 | 13:43 |Chrome 115.0.5790.110 Firefox 115.0.3| FAIL https://trello.com/c/NXVgBXpM | Huawei Mate 10 PRO EMUI 12.0.0.225 | FAIL https://trello.com/c/NXVgBXpM | 04.07 | Татьяна |
+| 4   | 2023-08-02 | 13:50 |Chrome 115.0.5790.110 Firefox 115.0.3| FAIL https://trello.com/c/KVEOrLyL | Huawei Mate 10 PRO EMUI 12.0.0.225 | FAIL https://trello.com/c/KVEOrLyL | 04.07 | Татьяна |
+| 5   | 2023-08-02 | 14:00 |Chrome 115.0.5790.110 Firefox 115.0.3| FAIL https://trello.com/c/GUPIBGTf | Huawei Mate 10 PRO EMUI 12.0.0.225 | FAIL https://trello.com/c/GUPIBGTf | 04.07 | Татьяна |
+| --- | ---------- | ----- |-------------------------------------| ---------------------------------- | ---------------------------------- | ---------------------------------- | ------| ------  |
+| 1   | 2023-08-15 | 20:25 |Chrome 116.0.5845.97 Yandex 23.7.2.765| PASS      						  | Xiaomi Mi 9 Lite MIUI 12.5.2       | PASS      						    | 13.08 | Сабина  |
+| 2   | 2023-08-16 | 10:40 |Chrome 116.0.5845.97 Yandex 23.7.2.765| FAIL https://trello.com/c/9d312LaU| Xiaomi Mi 9 Lite MIUI 12.5.2       | FAIL https://trello.com/c/9d312LaU | 13.08 | Сабина  |
+| 3   | 2023-08-16 | 10:45 |Chrome 116.0.5845.97 Yandex 23.7.2.765| FAIL https://trello.com/c/NXVgBXpM | Xiaomi Mi 9 Lite MIUI 12.5.2      | FAIL https://trello.com/c/NXVgBXpM | 13.08 | Сабина |
+| 4   | 2023-08-16 | 10:50 |Chrome 116.0.5845.97 Yandex 23.7.2.765| FAIL https://trello.com/c/KVEOrLyL | Xiaomi Mi 9 Lite MIUI 12.5.2      | FAIL https://trello.com/c/KVEOrLyL | 13.08 | Сабина |
+| 5   | 2023-08-16 | 10:55 |Chrome 116.0.5845.97 Yandex 23.7.2.765| FAIL https://trello.com/c/GUPIBGTf | Xiaomi Mi 9 Lite MIUI 12.5.2      | FAIL https://trello.com/c/GUPIBGTf | 13.08 | Сабина |
