@@ -1,4 +1,6 @@
 * Тестовые данные:
+  Оформление заказа как юр лицо.
+
 почта (email: teststroy1@mail.ru, pass:  pass2023!),
 личный кабинет(e-mail:teststroy1@mail.ru password:123123)
 
@@ -60,3 +62,4 @@ pass: 123123
 | --- | ---------- | ----- |-------------------------------------| ---------------------------------- | ---------------------------------- | ---------------------------------- | ------| ------  |
 | 1   | 2023-07-28 | 11:36 |Chrome 115.0.5790.102/Firefox 115.0.2 | FAIL https://trello.com/c/0VssmyaG | Safari                             | FAIL https://trello.com/c/0VssmyaG | 04.07 | Мария  |
 | 2   | 2023-08-21 | 08:00 |Chrome 116.0.5845.97 Yandex 23.7.2.765| FAIL https://trello.com/c/0VssmyaG | Chrome 116.0.5845.97               | FAIL https://trello.com/c/0VssmyaG | 13.08 | Сабина  |
+| 3   | 2023-08-27 | 20:57 |Chrome 116.0.5845.97 Yandex 23.7.2.765| FAIL https://trello.com/c/0VssmyaG | Chrome 116.0.5845.97               | FAIL https://trello.com/c/0VssmyaG | 27.08 | Сабина  |

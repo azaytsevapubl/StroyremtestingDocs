@@ -63,5 +63,5 @@ pass: 123123
 | --- | ---------- | ----- |-------------------------------------| ---------------------------------- | ---------------------------------- | ---------------------------------- | ------| ------  |
 | 1   | 2023-07-28 | 11:36 |Chrome 115.0.5790.102/Firefox 115.0.2 | FAIL https://trello.com/c/Pk7Yag5H / https://trello.com/c/ouWq9d2l | Safari                            | FAIL https://trello.com/c/Pk7Yag5H / https://trello.com/c/ouWq9d2l | 04.07 | Мария  |
 | 2   | 2023-08-21 | 08:10 |Chrome 116.0.5845.97 Yandex 23.7.2.765| FAIL https://trello.com/c/Pk7Yag5H / https://trello.com/c/ouWq9d2l | Chrome 116.0.5845.97               | FAIL https://trello.com/c/Pk7Yag5H / https://trello.com/c/ouWq9d2l | 13.08 | Сабина  |
-
+| 2   | 2023-08-21 | 08:10 |Chrome 116.0.5845.97 Yandex 23.7.3.823| FAIL https://trello.com/c/Pk7Yag5H / https://trello.com/c/ouWq9d2l | Chrome 116.0.5845.97               | FAIL https://trello.com/c/Pk7Yag5H / https://trello.com/c/ouWq9d2l | 27.08 | Сабина  |
 

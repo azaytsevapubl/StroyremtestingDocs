@@ -52,4 +52,4 @@
 | --- | ---------- | ----- |-------------------------------------| ---------------------------------- | ---------------------------------- | ---------------------------------- | ------| ------  |
 | 1   | 2023-07-28 | 11:36 |Chrome 115.0.5790.102/Firefox 115.0.2 | FAIL https://trello.com/c/0VssmyaG | Safari                             | FAIL https://trello.com/c/0VssmyaG  | 04.07 | Мария  |
 | 2   | 2023-08-21 | 08:18 |Chrome 116.0.5845.97 Yandex 23.7.2.765| FAIL https://trello.com/c/0VssmyaG | Chrome 116.0.5845.97               | FAIL https://trello.com/c/0VssmyaG | 13.08 | Сабина  |
-
+| 2   | 2023-08-27 | 21:28 |Chrome 116.0.5845.97 Yandex 23.7.3.823| FAIL https://trello.com/c/0VssmyaG | Chrome 116.0.5845.97               | FAIL https://trello.com/c/0VssmyaG | 27.08 | Сабина  |

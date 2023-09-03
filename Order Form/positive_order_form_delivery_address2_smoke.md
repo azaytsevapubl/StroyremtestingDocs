@@ -46,4 +46,5 @@
 | Дата | Время | Версия браузера Десктоп | Результат/Баг Трелло Десктоп | Версия браузера и ОС тача | Результат/Баг Трелло Тач | Дата релиза | Имя |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2023-08-15 | 13:00 | Chrome 115.0.5790.171 Firefox 115.0.3 | FAIL https://trello.com/c/NFEkAf4A https://trello.com/c/T5awgTaY | Chrome 115.0.5790.166, Android 10 | FAIL https://trello.com/c/NFEkAf4A https://trello.com/c/T5awgTaY| 13.08.23 | Татьяна |
+| 27.08.23 | 11:05 | Chrome версия 116.0.5845.111 Firefox версия 116.0.3  | FAIL https://trello.com/c/NFEkAf4A | Chrome версия 116.0.5845.93 MIUI 12.5.13 | FAIL https://trello.com/c/NFEkAf4A | 27.08.23 | Надежда |
 |     |     |     |     |     |     |     |     |
